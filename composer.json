@@ -25,5 +25,10 @@
                 }
             }
         }
-]
+    ],
+    "autoload": {
+        "psr-4": {
+            "anderl1\\cleverreach\\": ""
+        }
+}
 }
