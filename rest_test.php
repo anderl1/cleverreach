@@ -47,7 +47,8 @@ try {
 
 
 echo "### Return basic client information ###\n";
-// var_dump($rest->get("/clients"));
+var_dump($rest->get("/clients"));
+echo "hello master";
 
 
 
